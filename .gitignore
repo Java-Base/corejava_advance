@@ -1,0 +1,10 @@
+# file
+*.classpath
+*.project
+*.iml
+
+# directory/
+*.settings/
+*target/
+*untitled/
+*.idea/
